@@ -1,12 +1,10 @@
-import campusHeroBg from "@/assets/campus-hero-bg.jpg";
-
 const Hero = () => {
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
       {/* Background Image with Overlay */}
       <div className="absolute inset-0">
         <img
-          src={campusHeroBg}
+          src="/reva-campus.png"
           alt="REVA University campus"
           className="w-full h-full object-cover blur-sm"
         />
