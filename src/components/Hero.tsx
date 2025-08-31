@@ -4,7 +4,7 @@ const Hero = () => {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0">
         <img
-          src="/reva-campus.png"
+          src="/lovable-uploads/c5161220-cf43-468e-b627-a3bceeede40a.png"
           alt="REVA University campus"
           className="w-full h-full object-cover blur-sm"
         />
