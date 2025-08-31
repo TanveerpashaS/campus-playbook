@@ -7,10 +7,10 @@ const Hero = () => {
       <div className="absolute inset-0">
         <img
           src={campusHeroBg}
-          alt="Modern university campus"
-          className="w-full h-full object-cover"
+          alt="REVA University campus"
+          className="w-full h-full object-cover blur-sm"
         />
-        <div className="absolute inset-0 bg-primary/60 backdrop-blur-[1px]" />
+        <div className="absolute inset-0 bg-primary/70 backdrop-blur-[2px]" />
       </div>
 
       {/* Content */}

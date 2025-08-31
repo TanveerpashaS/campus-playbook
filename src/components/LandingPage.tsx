@@ -1,6 +1,6 @@
 import Navbar from "./Navbar";
 import Hero from "./Hero";
-import Problem from "./Problem";
+import Blueprint from "./Blueprint";
 import Solution from "./Solution";
 import Features from "./Features";
 import Mission from "./Mission";
@@ -11,7 +11,7 @@ const LandingPage = () => {
     <div className="min-h-screen">
       <Navbar />
       <Hero />
-      <Problem />
+      <Blueprint />
       <Solution />
       <Features />
       <Mission />
