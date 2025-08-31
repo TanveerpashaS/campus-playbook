@@ -6,9 +6,9 @@ const Hero = () => {
         <img
           src="/lovable-uploads/c5161220-cf43-468e-b627-a3bceeede40a.png"
           alt="REVA University campus"
-          className="w-full h-full object-cover blur-sm"
+          className="w-full h-full object-cover blur-[1px]"
         />
-        <div className="absolute inset-0 bg-primary/70 backdrop-blur-[2px]" />
+        <div className="absolute inset-0 bg-primary/50 backdrop-blur-[1px]" />
       </div>
 
       {/* Content */}
