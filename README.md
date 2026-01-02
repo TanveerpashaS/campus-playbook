@@ -1,6 +1,6 @@
 ## THE CAMPUS PLAYBOOK
 
-## clone it
-1.npm install
-2.change to your own branch for making changes
+## cloning steps
+1.npm install "\n"
+2.change to your own branch for making changes "\n"
 3.npm run dev
