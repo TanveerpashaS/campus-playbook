@@ -9,7 +9,7 @@ const Hero = () => {
       {/* Dynamic Background with Animated Overlay */}
       <div className="absolute inset-0">
         <img
-          src="/lovable-uploads/c5161220-cf43-468e-b627-a3bceeede40a.png"
+          src="/image folder/c5161220-cf43-468e-b627-a3bceeede40a.png"
           alt="REVA University campus"
           className="w-full h-full object-cover"
         />
